@@ -1,0 +1,32 @@
+h1{
+   margin:0 ;
+   text-align:center;
+  position: center;
+  color:#1fd000;
+  text-decoration:underline;
+  
+    
+    
+}.box{
+    
+  
+    
+    
+}.za{background: #15a1ff4b;
+width: 100px;
+    height: 100px;
+    text-align:center;
+    font-size:500%;
+    border-radius:50%;
+    position: center;
+    margin-left: 45%;
+    animation:myA;
+    animation-duration:3s;
+}@keyframes myA{
+    from{margin-left:100% ;
+        
+    }100%{margin-right:100%;
+        
+    }
+    
+}
